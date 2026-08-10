@@ -2,7 +2,7 @@
   "formatVersion": "1.1",
   "component": {
     "group": "com.simpsdk.sdk",
-    1.1.6,
+    $11.1.7",
     "attributes": {
       "org.gradle.status": "release"
     }
