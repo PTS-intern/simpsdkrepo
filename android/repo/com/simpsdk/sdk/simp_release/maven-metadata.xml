@@ -1,13 +1,14 @@
-<?xml version="1.1.3" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.simpsdk.sdk</groupId>
   <artifactId>simp_release</artifactId>
   <versioning>
-    <latest>1.1.3</latest>
-    <release>1.1.3</release>
+    <latest>1.1.4</latest>
+    <release>1.1.4</release>
     <versions>
-      <version>1.1.3</version>
+      <version>1.1.4</version>
     </versions>
-    <lastUpdated>20260810113934</lastUpdated>
+    <lastUpdated>20260810163849</lastUpdated>
   </versioning>
 </metadata>
+
