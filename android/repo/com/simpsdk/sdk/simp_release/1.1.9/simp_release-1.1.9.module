@@ -3,7 +3,7 @@
   "component": {
     "group": "com.simpsdk.sdk",
     "module": "simp_release",
-    "version": "1.1.8",
+    "version": "1.1.9",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -68,8 +68,8 @@
       ],
       "files": [
         {
-          "name": "simp_release-1.0.aar",
-          "url": "simp_release-1.0.aar",
+          "name": "simp_release-1.1.9.aar",
+          "url": "simp_release-1.1.9.aar",
           "size": 4321972,
           "sha512": "8e0ea56c53fb229ec3cc3e3679e797fd7f02a7817e28e5f4bb9c918f2e6c7164db04f4202d7bd70f5e11fff714a3c891260e67b7dc1604278c7c08e05646f3e0",
           "sha256": "878aaf28a2f089c6450079fe352ae2f772d5960355c19246ad4b3d710f69f141",
@@ -132,8 +132,8 @@
       ],
       "files": [
         {
-          "name": "simp_release-1.0.aar",
-          "url": "simp_release-1.0.aar",
+          "name": "simp_release-1.1.9.aar",
+          "url": "simp_release-1.1.9.aar",
           "size": 4321972,
           "sha512": "8e0ea56c53fb229ec3cc3e3679e797fd7f02a7817e28e5f4bb9c918f2e6c7164db04f4202d7bd70f5e11fff714a3c891260e67b7dc1604278c7c08e05646f3e0",
           "sha256": "878aaf28a2f089c6450079fe352ae2f772d5960355c19246ad4b3d710f69f141",
@@ -152,8 +152,8 @@
       },
       "files": [
         {
-          "name": "simp_release-1.0-sources.jar",
-          "url": "simp_release-1.0-sources.jar",
+          "name": "simp_release-1.1.9-sources.jar",
+          "url": "simp_release-1.1.9-sources.jar",
           "size": 1146,
           "sha512": "1e8b170e410f6cd7336deeec5861e870959568f09291895867d0705933647767dcdc826404a94b9582fd72a132edfca7440da37d05edf62d7b1a26dbd71d426e",
           "sha256": "7541e251c63178b7fc781a3d55a502897e86ff5c26ffd15175d8d53feb35bbc5",
@@ -172,8 +172,8 @@
       },
       "files": [
         {
-          "name": "simp_release-1.0-javadoc.jar",
-          "url": "simp_release-1.0-javadoc.jar",
+          "name": "simp_release-1.1.9-javadoc.jar",
+          "url": "simp_release-1.1.9-javadoc.jar",
           "size": 261687,
           "sha512": "e1a6d33dda75d144f4e55191c618680bb96eaa38d844a6997ae3c2636b285645deb0b086688b72e6f364ace0729f67f8cc5e1f7299e04b1543dd49d0c30411a3",
           "sha256": "d9aa77c8f41815c9159984c3501460f6dfc6604ab5916a8ee4e35dee3c346d16",
